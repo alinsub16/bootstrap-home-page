@@ -1,0 +1,8 @@
+. HTML: 7
+. CSS: 6
+. Bootstrap:6
+. JavaSrpit:4
+. jQuery:1
+. php: 2
+. sql: 2
+. wordpress:1 

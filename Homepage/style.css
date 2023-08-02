@@ -1,0 +1,17 @@
+.logo{
+    padding-right: 140px;
+}
+.icons{
+    display: flex;
+    gap: 40px;
+}
+.container-button input{
+    background: none;
+    border: none;
+}
+.container-button{
+    border-bottom: 1px solid white;
+}
+.row{
+    padding-top: 100px;
+}
